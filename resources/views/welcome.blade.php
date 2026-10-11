@@ -160,6 +160,16 @@
             frameBorder="0" 
             allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
         </iframe>
+
+        <!-- Musik Keempat -->
+        <iframe 
+        data-testid="embed-iframe" 
+        style="border-radius:12px" 
+        src="https://open.spotify.com/embed/album/1irM7toJ5iqS1vY82rGhTK?utm_source=generator&si=bd29750273f9435a" 
+        width="100%" height="152" 
+        frameBorder="0" allowfullscreen="" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+        </iframe>
     </div>
 
         <!-- Video Karya -->
@@ -260,6 +270,23 @@
                     <div class="social-info">
                         <h3>GitHub</h3>
                         <p>Jelajahi proyek dan kode saya</p>
+                    </div>
+                    <span class="social-arrow">↗</span>
+                </a>
+
+                <!-- LinkdIn -->
+                <a href="https://www.linkedin.com/in/wulan-nurfitriani-944b73364?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="social-card">
+                    <div class="social-icon linkedin">
+                        <svg viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M20.45 2H3.55C2.69 2 2 2.68 2 3.52v16.96c0 .84.69 1.52 1.55 1.52h16.9c.86 0 1.55-.68 1.55-1.52V3.52c0-.84-.69-1.52-1.55-1.52ZM7.93 18.9H4.97V9.37h2.96v9.53ZM6.45 8.07a1.72 1.72 0 1 1 0-3.44 1.72 1.72 0 0 1 0 3.44ZM19 18.9h-2.96v-4.64c0-1.11-.02-2.54-1.55-2.54-1.55 0-1.79 1.21-1.79 2.46v4.72H9.74V9.37h2.84v1.3h.04c.4-.75 1.36-1.55 2.8-1.55 3 0 3.58 1.97 3.58 4.53v5.25Z"/>
+                        </svg>
+                    </div>
+                    <div class="social-info">
+                        <h3>LinkedIn</h3>
+                        <p>Profil dan pengalaman profesional saya</p>
                     </div>
                     <span class="social-arrow">↗</span>
                 </a>
